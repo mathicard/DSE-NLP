@@ -3,7 +3,7 @@ Text Mining and Sentiment Analysis project
 
 Author: Mathias Cardarello Fierro
 
-This repository presents the files of the work "Identifying human values in arguments: an alternative approach based on topics detection"  This work aims to develop an explainable multi-label classification model for
+This repository contains the working files and notebooks of the study "Identifying human values in arguments: an alternative approach based on topics detection". This work aims to develop an explainable multi-label classification model for
 labeling new argumentation texts with second-level human values categories. It
 utilizes the correlation between the topics discussed in the texts and descriptions
 of human values. The process involves identifying topics using BERTopic, and
